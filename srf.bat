@@ -1,0 +1,1 @@
+C:\Siebel\15.0.0.0.0\Tools\BIN\siebdev.exe /c C:\Siebel\15.0.0.0.0\Tools\BIN\enu\tools.cfg /d ServerDataSrc /u SADMIN /p SADMIN /bc "Siebel Repository" C:\Siebel\15.0.0.0.0\Tools\OBJECTS\enu\siebel_sia.srf 
